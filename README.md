@@ -33,4 +33,4 @@ I have Embeddings (Google Generative AI to maintain a unified Google ecosystem. 
 limitation :
 1. if the website uses heavy JavaScript (CSR) to load content WebBaseLoader might miss some sections.
 2. the application uses local memory for the vector store, so restarting the app clears the indexed website (unless persistence logic is explicitly triggered).
-3. since my GOOGLE AI STUDIO's billing setup is under verification so the results might not be visible immediatly, it will take some time to get complete(probably 48 hours).
+
