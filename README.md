@@ -27,6 +27,7 @@ I have Embeddings (Google Generative AI to maintain a unified Google ecosystem. 
    GOOGLE_API_KEY=your_api_key_here
 4.**Run the application:**
    streamlit run app.py
-**limitation :**
+
+limitation :
 1. if the website uses heavy JavaScript (CSR) to load content WebBaseLoader might miss some sections.
 2. the application uses local memory for the vector store, so restarting the app clears the indexed website (unless persistence logic is explicitly triggered).
