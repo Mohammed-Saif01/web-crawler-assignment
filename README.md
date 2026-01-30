@@ -20,11 +20,13 @@ I have Embeddings (Google Generative AI to maintain a unified Google ecosystem. 
 **Setup and run instructions**
 1. **Clone the repository:**
    git clone https://github.com/Mohammed-Saif01/web-crawler-assignment.git
-   cd website-chatbot
-2. **Install dependencies**
+   
+3. **Install dependencies**
  pip install -r requirements.txt
+
 3.**Configure API Keys: Create a .env file in the root directory and add**
    GOOGLE_API_KEY=your_api_key_here
+   
 4.**Run the application:**
    streamlit run app.py
 
