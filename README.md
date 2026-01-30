@@ -19,7 +19,7 @@ I have Embeddings (Google Generative AI to maintain a unified Google ecosystem. 
 
 **Setup and run instructions**
 1. **Clone the repository:**
-   git clone <repolink>
+   git clone https://github.com/Mohammed-Saif01/web-crawler-assignment.git
    cd website-chatbot
 2. **Install dependencies**
  pip install -r requirements.txt
